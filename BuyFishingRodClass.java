@@ -112,13 +112,15 @@ public class BuyFishingRodClass {
 			}
 		}
 	}
+
+//------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 	
 	public void getFishingRodTable() {
 		System.out.println("\n    ________________________________________________________________________________________________________________ ");
 		System.out.println("   |              Item                 |                        Description              	    |     Price     |");
 		System.out.println("   |___________________________________|____________________________________________________________|_______________|");
 		System.out.println("   |				       | Slender poles  that  are  made  of  flexible  but  durable |               |");
-		System.out.println("   | (1) " + basic + "	       | material. Typically fiberglass or graphite—to allow you to |     $120      |");
+		System.out.println("   | (1) " + basic + "	       | material. Typically fiberglass or graphiteâ€”to allow you to |     $120      |");
 		System.out.println("   |				       | cast your fishing line further and deeper into the water.  |               |");
 		System.out.println("   |___________________________________|____________________________________________________________|_______________|");
 		System.out.println("   |				       | This rod holder can bear your weight. It  is  suitable for |               |");
